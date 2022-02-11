@@ -4,9 +4,9 @@ Repository dedicated to the Signal Processing of Quadrupole Mass Spectrometry da
 
 For this purposes the codes are developed, mainly in Python R. And allow us to analyze different experimental process such as:
 
- 1) Electron Stimulated Desorption (ESD).
- 2) Thermal Stimulated Desorption (TSD).
- 3) Cross section (as function of Electron Energy).
- 4) Mass spectra identifying the peak positions.
+ 1) Electron Stimulated Desorption (ESD)
+ 2) Thermal Stimulated Desorption (TSD)
+ 3) Cross section (as function of Electron Energy)
+ 4) Mass spectra identifying the peak positions
 
 The developed codes works reading files in .csv, .txt and .asc format files.
