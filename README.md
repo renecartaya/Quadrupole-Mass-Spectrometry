@@ -10,3 +10,6 @@ For this purposes, the codes are developed, mainly in Python R. And allow us to 
  4) Mass spectra identifying the peak positions
 
 The developed codes works reading files in .csv, .txt and .asc format files.
+
+![alt text](https://github.com/renecartaya/Instrumentation/blob/main/DAQ_app.png)
+
