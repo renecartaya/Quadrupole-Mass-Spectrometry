@@ -15,3 +15,7 @@ The developed codes works reading files in .csv, .txt and .asc format files.
 
 ![alt text](https://github.com/renecartaya/Quadrupole-Mass-Spectrometry/blob/main/Plots/MS_sample.png)
 
+The code is able to identify peaks positions for itslef though the identity of them in the current stage should be done for the user.
+
+The sensitibity of the peak detection could be tailored for those spectrums with big concentrations of peaks.
+
