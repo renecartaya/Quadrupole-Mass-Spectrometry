@@ -19,5 +19,5 @@ The developed codes works reading files in .csv, .txt and .asc format files.
 
 The code is able to identify peaks positions for itslef though the identity of them in the current stage should be done for the user, being able to label the peak identification in txt over the plot.
 
-The sensitibity of the peak detection could be tailored for those spectrums with big concentrations of peaks. 
+The sensitibity of the peak detection could be tailored for those spectrums with big concentrations of peaks. Nevertheless, the peak positions could be also shifted by the user in the cases that the user want to highligh a more specific positions. 
 
