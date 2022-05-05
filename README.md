@@ -1,6 +1,6 @@
 # Quadrupole-Mass-Spectrometry
 
-This repository aims to implement Signal Processing of Quadrupole Mass Spectrometry data from Cross-beam ion sources used to study electron-beam-induced chemical processes in clusters, single molecules, in the context of thin films, and new materials for semiconductors applications.
+This repository aims to implement Signal Processing of Quadrupole Mass Spectrometry data from Cross-beam ion sources used to study electron-beam-induced chemical processes in argon clusters, and single molecules, in the context of thin films, and new materials for semiconductors applications.
 
 For this purposes, the codes are developed, mainly in Python R. And allow us to analyze different experimental processes such as:
 
